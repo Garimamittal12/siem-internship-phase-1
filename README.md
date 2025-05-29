@@ -130,7 +130,7 @@ All logs are sent to the `linux_logs` index using appropriate sourcetypes (`auth
 
 ---
 
-## 🧠 MITRE ATT&CK Alignment  
+## MITRE ATT&CK Alignment  
 This detection environment maps to several MITRE ATT&CK tactics:
 - **Persistence**
 - **Defense Evasion**
